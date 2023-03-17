@@ -26,7 +26,7 @@ const datastudent = {
 "2226590-3743":"",
 "2110324-3743":"",
 "2023906-3743":"",
-"2040051-3743":"",
+"2040051-3743":{"nombre" : "Sheilly Ortega" , "semestre": 6 , "soltero":false , "gustos" : ['ver series y peliculas', 'dormir','hacer ejercicio']},
 "2025465-3743":"",
 "2040104-3743":"",
 "2042568-3743":"",
