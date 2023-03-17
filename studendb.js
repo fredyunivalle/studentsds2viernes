@@ -29,7 +29,7 @@ const datastudent = {
 "2040051-3743":"",
 "2025465-3743":"",
 "2040104-3743":"",
-"2042568-3743":"",
+"2042568-3743": {"nombre" : "Natalia Riaños" , "semestre": 6 , "soltero":false , "gustos" : ['comer', 'cocinar','naturaleza', 'ejercicio']},
 "2028117-3743":"",
 "2042954-3743":"",
 "2110331-3743":"",
