@@ -39,6 +39,7 @@ const datastudent = {
 "2042577-3743":"",
 "2040751-3743":"",
 "1924546-3743":"",
+"1843859-3743": {"nombre" : "Santiago" , "semestre": 6 , "soltero":false , "gustos" : ['videojuegos', 'series','comer']}
 }
 
 module.exports = datastudent
