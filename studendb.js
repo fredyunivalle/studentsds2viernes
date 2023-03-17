@@ -25,7 +25,7 @@ const datastudent = {
 "2024223-3743":"",
 "2226590-3743":"",
 "2110324-3743":"",
-"2023906-3743":"",
+"2023906-3743":{"nombre" : "Laura Moyano Gonzalez" , "semestre": 6 , "soltero":false , "gustos" : ['Cine', 'Teatro','comer', 'bailar','viajar']},
 "2040051-3743":"",
 "2025465-3743":"",
 "2040104-3743":"",
