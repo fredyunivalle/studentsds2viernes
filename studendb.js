@@ -24,7 +24,7 @@ const datastudent = {
 "2041790-3743":"",
 "2024223-3743":"",
 "2226590-3743":"",
-"2110324-3743":"",
+"2110324-3743":{"nombre" : "Maria Paula" , "semestre": 6 , "soltero":true , "gustos" : ['viajar', 'ver series', 'escuchar música']},
 "2023906-3743":"",
 "2040051-3743":"",
 "2025465-3743":"",
