@@ -27,7 +27,7 @@ const datastudent = {
 "2226590-3743":{"nombre" : "David" , "semestre": 6 , "soltero":true , "gustos" : ['jugar play', 'leer','ver peliculas']},
 "2110324-3743":"",
 "2023906-3743":"",
-"2040051-3743":"",
+"2040051-3743":{"nombre" : "Sheilly Ortega" , "semestre": 6 , "soltero":false , "gustos" : ['ver series y peliculas', 'dormir','hacer ejercicio']},
 "2025465-3743":{"nombre" : "Santiago" , "semestre": 6 , "soltero":true , "gustos" : ['videjuegos', 'musica','deportes']},
 "2040104-3743":{"nombre" : "Juan" , "semestre": 6 , "soltero":false , "gustos" : ['Videojuegos', 'Musica','Basketball']},,
 "2042568-3743": {"nombre" : "Natalia Riaños" , "semestre": 6 , "soltero":false , "gustos" : ['comer', 'cocinar','naturaleza', 'ejercicio']},
