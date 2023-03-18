@@ -34,7 +34,7 @@ const datastudent = {
 "2042954-3743":"",
 "2110331-3743":"",
 "2110051-3743":"",
-"2071655-3743":"",
+"2071655-3743":{"nombre" : "Santiago" , "semestre": 6 , "soltero":true , "gustos" : ['comer', 'dormir','jugar videojuegos','ver series','ver anime']},
 "2026608-3743":"",
 "2042577-3743": {"nombre": "William Velasco", "semestre": 6, "soltero":false, "gustos": ['cocinar', 'caminar', 'montanismo', 'entrenar']},
 "2040751-3743":{"nombre" : "Juan Jose" , "semestre": 6 , "soltero":true , "gustos" : ['comer', 'bailar','viajar', 'ver peliculas','leer']},
