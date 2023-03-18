@@ -5,7 +5,7 @@ const datastudent = {
 "2040507-3743":"",
 "2043291-3743":{"nombre" : "Juan" , "semestre": 6 , "soltero":true , "gustos" : ['comer', 'jugar','viajar','dormir']},
 "2126639-3743":"",
-"2041260-3743":"",
+"2041260-3743":{"nombre" : "Diana" , "semestre": 6 , "soltero":false , "gustos" : ['comer', 'bailar','dormir']},
 "1841245-3743":"",
 "1944140-3743":"",
 "1823494-3743":"",
