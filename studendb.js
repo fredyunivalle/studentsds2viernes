@@ -22,7 +22,7 @@ const datastudent = {
 "2040177-3743":{"Nombre" : "Juan Majin", "semestre": 6, "soltero":false, "gustos" : ['jugar videojuegos','viajar', 'dormir']}
 "2025159-3743":"",
 "2043008-3743":{"nombre" : "Juan Esteban", "semestre": 6, "soltero":false , "gustos" : ['dormir', 'jugar']},
-"2041790-3743":"",
+"2041790-3743": {"nombre" : "DeisyMelo" , "semestre": 6 , "soltero":true , "gustos" : ['comer', 'dibujar','dormir','ver series']},
 "2024223-3743": {"nombre" : "Cristian" , "semestre": 6 , "soltero":true , "gustos" : ['jugar', 'bailar','pasear', 'ver series']},
 "2226590-3743":{"nombre" : "David" , "semestre": 6 , "soltero":true , "gustos" : ['jugar play', 'leer','ver peliculas']},
 "2110324-3743":"",
