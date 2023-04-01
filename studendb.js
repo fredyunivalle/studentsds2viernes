@@ -8,7 +8,7 @@ const datastudent = {
 "2041260-3743":"",
 "1841245-3743":"",
 "1944140-3743":"",
-"1823494-3743":"",
+"1823494-3743": {"nombre" : "Luisa" , "semestre": 6 , "soltero":true , "gustos" : ['video juegos', 'viajar','comer']},
 "1941563-3743": {"nombre" : "Juan" , "semestre": 6 , "soltero":false , "gustos" : ['jugar baloncesto', 'dormir','jugar videojuegos']},
 "2074121-3743":"",
 "2040801-3743":"",
